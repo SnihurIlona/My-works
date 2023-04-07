@@ -36,20 +36,20 @@
 }
 
 .btn::after{
-position: absolute;
-top: 50%;
-left: 30px;
+    position: absolute;
+    top: 50%;
+    left: 30px;
 
     content: "";
-        display: inline-block;
-        width: 20px;
-        height: 20px;
-        background-color: red;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: red;
 
-        transform: translateY(-50%);
+    transform: translateY(-50%);
 
-        transition: transform 500ms linear 500ms;
-        overflow: hidden;
+    transition: transform 500ms linear 500ms;
+    overflow: hidden;
 }
 
 .btn:hover::after{
