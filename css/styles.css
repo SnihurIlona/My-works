@@ -11,7 +11,7 @@
     cursor: pointer; 
 }
 
-.bnt:before{
+.bnt::before{
     content: "";
     display: inline-block;
     width: 20px;
