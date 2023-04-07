@@ -1,0 +1,21 @@
+.btn{
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    border: none;
+    margin: 0;
+    padding: 10px 30px;
+    border-radius: 3px;
+    background-color: orange;
+    color: bisque;
+    cursor: pointer; 
+}
+
+.bnt:before{
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: blueviolet;
+}
+
