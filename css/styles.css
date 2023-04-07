@@ -24,11 +24,11 @@
     background-color: blueviolet;
 
     transition: transform 500ms linear 500ms;
-    overflow: hidden;
 }
 
 .btn:hover::before{
     transform: translateY(-35px);
+    overflow: hidden;
 }
 
 .btn:hover, .btn:focus{
@@ -49,10 +49,10 @@
     transform: translateY(-50%);
 
     transition: transform 500ms linear 500ms;
-    overflow: hidden;
 }
 
 .btn:hover::after{
     transform: translateY(35px);
+    overflow: hidden;
 }
 
