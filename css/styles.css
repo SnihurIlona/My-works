@@ -24,6 +24,7 @@
     background-color: blueviolet;
 
     transition: transform 500ms linear 500ms;
+    overflow: hidden;
 }
 
 .btn:hover::before{
@@ -34,5 +35,18 @@
     background-color: chocolate;
 }
 
+.btn::after{
+    content: "";
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-color: red;
 
+        transition: transform 500ms linear 500ms;
+        overflow: hidden;
+}
+
+.btn:hover::after{
+    transform: translateY(-35px);
+}
 
