@@ -23,6 +23,7 @@
     height: 20px;
     background-color: blueviolet;
 
+    transition: transform 500ms linear 500ms;
 }
 
 .btn:hover::before{
