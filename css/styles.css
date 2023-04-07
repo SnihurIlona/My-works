@@ -46,7 +46,7 @@
     height: 20px;
     background-color: red;
 
-    transform: translateY(-50%);
+    transform: translateY(50px);
 
     transition: transform 500ms linear 500ms;
 }
