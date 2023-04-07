@@ -24,3 +24,7 @@
     background-color: blueviolet;
 }
 
+.btn:hover, .btn:focus{
+    background-color: chocolate;
+}
+
