@@ -52,7 +52,7 @@
 }
 
 .btn:hover::after{
-    transform: translateY(-50px);
+    transform: translateY(-25px);
     
 }
 
