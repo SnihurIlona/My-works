@@ -36,6 +36,10 @@
 }
 
 .btn::after{
+position: absolute;
+top: 50%;
+left: 35px;
+
     content: "";
         display: inline-block;
         width: 20px;
@@ -47,6 +51,6 @@
 }
 
 .btn:hover::after{
-    transform: translateY(-35px);
+    transform: translateY(35px);
 }
 
