@@ -28,7 +28,7 @@
 
 .btn:hover::before{
     transform: translateY(-35px);
-    overflow: hidden;
+    
 }
 
 .btn:hover, .btn:focus{
@@ -52,7 +52,7 @@
 }
 
 .btn:hover::after{
-    transform: translateY(35px);
-    overflow: hidden;
+    transform: translateY(-50px);
+    
 }
 
