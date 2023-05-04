@@ -52,7 +52,7 @@ p {
     color: rgba(20, 20, 20, 0.5);
 }
 
-.modal-label{
+.modal-form{
     display: flex;
     flex-direction: column;
 }
