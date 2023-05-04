@@ -67,6 +67,11 @@ p {
     color: #141414;
 }
 
+.modal-wrapper{
+    display: block;
+    position: relative;
+}
+
 .modal-input{
     display: block;
     min-width: 295px;
