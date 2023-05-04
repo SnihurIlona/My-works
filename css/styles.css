@@ -107,5 +107,20 @@ p {
     color: #FFFFFF;
     background: #1E2827;
     border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.modal-item{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    color: rgba(20, 20, 20, 0.4);
+}
+
+.modal-item-link{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    color: rgba(20, 20, 20, 0.4);
 }
 
