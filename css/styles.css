@@ -67,11 +67,6 @@ p {
     color: #141414;
 }
 
-/* .modal-wrapper{
-    display: block;
-    position: relative;
-} */
-
 .modal-input{
     display: block;
     min-width: 295px;
@@ -106,7 +101,7 @@ p {
     line-height: 1.1;
     text-align: center;
     margin: auto;
-    width: 295px;
+    width: 100%;
     height: 50px;
     list-style: none;
     border: none;
