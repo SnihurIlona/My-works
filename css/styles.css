@@ -16,3 +16,19 @@
     padding: 40px 20px;
 }
 
+.modal-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #141414;
+}
+
+.modal-price{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: rgba(20, 20, 20, 0.5);
+}
+
