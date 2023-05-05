@@ -254,6 +254,11 @@ p {
         padding: 40px 20px;
     }
 
+    .modal-watch-img{
+        margin-right: auto;
+        margin-left: auto;
+    }
+
     .modal-input {
         min-width: 295px
     }
