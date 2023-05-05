@@ -151,7 +151,6 @@ p {
 
 .modal-div-wrapper{
     display: flex;
-    flex-direction: ;
 }
 
 .modal-text {
@@ -259,6 +258,10 @@ p {
     .modal-close-button {
         top: 12px;
         right: 12px;
+    }
+
+    .modal-div-wrapper{
+        flex-direction: column;
     }
 
 }
