@@ -276,6 +276,10 @@ p {
 }
 
 @media screen and (min-width: 768px) {
+    .modal-input{
+        min-width: 368px;
+    }
+
     .modal-textarea {
         min-width: 368px;
     }
@@ -284,6 +288,7 @@ p {
 
 @media screen and (min-width: 1280px) {
     .modal-input {
+        min-width: 508px;
         margin-bottom: 24px;
     }
 
