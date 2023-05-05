@@ -205,6 +205,10 @@ p {
     padding-left: 16px;
 }
 
+.modal-input:invalid{
+    outline: red;
+}
+
 .modal-textarea {
     height: 166px;
     resize: none;
