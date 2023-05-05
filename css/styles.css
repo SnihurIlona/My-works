@@ -241,6 +241,7 @@ p {
     height: 50px;
     list-style: none;
     border: none;
+    cursor: pointer;
     color: #FFFFFF;
     background: #1E2827;
     border-radius: 8px;
@@ -257,6 +258,7 @@ p {
     position: absolute;
     top: 20px;
     right: 20px;
+    cursor: pointer;
     border: none;
     background-color: #FFFFFF;
 }
