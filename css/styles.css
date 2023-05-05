@@ -205,7 +205,11 @@ p {
     padding-left: 16px;
 }
 
-.modal-input:invalid{
+.modal-input:not(:placeholder-shown):required:valid{
+    outline: 2px solid green;
+}
+
+.modal-input:not(:placeholder-shown):required:invalid {
     outline: 2px solid red;
 }
 
