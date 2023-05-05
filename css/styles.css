@@ -145,21 +145,21 @@ p {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: var(--bgc-main);
+    background-color: #FFFFFF;
     padding: 40px 40px;
 }
 
 .modal-text {
-    font-weight: var(--font-regular);
+    font-weight: 400;
     font-size: 14px;
     line-height: 1.2;
     letter-spacing: -0.02em;
     margin-bottom: 4px;
-    color: var(--bgc-hero);
+    color: #FFFFFF;
 }
 
 .modal-price {
-    font-weight: var(--font-regular);
+    font-weight: 400;
     font-size: 12px;
     line-height: 1.1;
     letter-spacing: -0.02em;
@@ -174,12 +174,12 @@ p {
 
 .modal-desc {
     display: block;
-    font-weight: var(--font-regular);
+    font-weight: 400;
     font-size: 12px;
     line-height: 1.1;
     letter-spacing: -0.02em;
     margin-bottom: 12px;
-    color: var(--bgc-hero);
+    color: #FFFFFF;
 }
 
 .modal-input {
@@ -195,7 +195,7 @@ p {
     height: 166px;
     resize: none;
     padding: 12px 16px;
-    font-weight: var(--font-regular);
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.1;
     letter-spacing: -0.02em;
@@ -207,7 +207,7 @@ p {
 
 .modal-button-submit {
     display: block;
-    font-weight: var(--font-regular);
+    font-weight: 400;
     font-size: 12px;
     line-height: 1.1;
     text-align: center;
@@ -215,7 +215,7 @@ p {
     height: 50px;
     list-style: none;
     border: none;
-    color: var(--bgc-main);
+    color: #FFFFFF;
     background: var(--bgc-pull);
     border-radius: 8px;
     margin-bottom: 12px;
