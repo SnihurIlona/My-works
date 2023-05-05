@@ -234,6 +234,10 @@ p {
     border-radius: 8px;
 }
 
+.modal-textarea:focus{
+    outline: none;
+}
+
 .modal-button-submit {
     display: block;
     font-weight: 400;
