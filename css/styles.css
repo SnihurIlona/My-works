@@ -149,6 +149,11 @@ p {
     padding: 40px 40px;
 }
 
+.modal-div-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
 .modal-text {
     font-weight: 400;
     font-size: 14px;
@@ -254,6 +259,10 @@ p {
     .modal-close-button {
         top: 12px;
         right: 12px;
+    }
+
+    .modal-div-wrapper{
+        display: none;
     }
 }
 
