@@ -222,7 +222,7 @@ p {
 }
 
 .modal-item {
-    font-weight: var(--font-regular);
+    font-weight: 400;
     line-height: 1.1;
     color: rgba(20, 20, 20, 0.4);
 }
