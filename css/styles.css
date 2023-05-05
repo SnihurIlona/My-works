@@ -153,6 +153,11 @@ p {
     display: flex;
 }
 
+.modal-swaddle{
+    display: flex;
+    flex-direction: column;
+}
+
 .modal-text {
     font-weight: 400;
     font-size: 14px;
