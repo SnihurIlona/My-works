@@ -205,7 +205,6 @@ p {
     color: black;
     border: 1px solid rgba(20, 20, 20, 0.5);
     border-radius: 8px;
-    margin-bottom: 18px;
     padding-left: 16px;
 }
 
@@ -215,6 +214,10 @@ p {
 
 .modal-input:not(:placeholder-shown):required:invalid {
     outline: 2px solid red;
+}
+
+.modal-input:focus{
+    outline: none;
 }
 
 .modal-textarea {
