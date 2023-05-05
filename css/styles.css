@@ -206,7 +206,7 @@ p {
 }
 
 .modal-input:invalid{
-    background-color: red;
+    outline: 2px solid red;
 }
 
 .modal-textarea {
