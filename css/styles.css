@@ -151,7 +151,7 @@ p {
 
 .modal-div-wrapper{
     display: flex;
-    flex-direction: column;
+    flex-direction: ;
 }
 
 .modal-text {
@@ -261,15 +261,13 @@ p {
         right: 12px;
     }
 
-    .modal-div-wrapper{
-        display: none;
-    }
 }
 
 @media screen and (min-width: 768px) {
     .modal-textarea {
         min-width: 368px;
     }
+
 }
 
 @media screen and (min-width: 1280px) {
