@@ -216,7 +216,7 @@ p {
     list-style: none;
     border: none;
     color: #FFFFFF;
-    background: var(--bgc-pull);
+    background: #1E2827;
     border-radius: 8px;
     margin-bottom: 12px;
 }
