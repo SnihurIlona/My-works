@@ -122,3 +122,10 @@ p {
     color: rgba(20, 20, 20, 0.4);
 }
 
+
+.modal-close-button{
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+
